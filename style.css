@@ -1,0 +1,11 @@
+
+.jumbotron{
+    margin-top: 50px;
+    background: rgb(255, 249, 214);
+}
+
+.jumbotron .badan{
+    background-color: rgb(247, 237, 232);
+    backdrop-filter: blur( 50px);
+    -webkit-backdrop-filter: blur( 50px );
+}
